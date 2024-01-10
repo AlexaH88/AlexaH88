@@ -11,6 +11,9 @@
 ## 🙋‍♀️ About Me
 
 - 🔭 Looking for my first developer job with a focus on font-end or full-stack
+- 💻 Full-stack software development diploma from Code Institute (Grade: Merit)
+- 🎓 Master of Arts Hons in French from University of St Andrews (Grade: 2:2)
+- 💼 10-year career in marketing and business development
 - 🌍 Grew up in Germany and Scotland, living in France
 - 🎧 Love gaming, music, and all things tech
 
@@ -50,4 +53,3 @@
 
 
 ## 👩‍🎓 Portfolio Projects
-
