@@ -1,9 +1,8 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1xaXNtcjhxZnEyYmhkY2JvbmswN2o2ZGxxZDVmZjRsNHF1ZzB4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4oRILGMNjVlWpbtMxJ/giphy.gif" width="100"/>
 </div>
 
+### Hi there 👋
 
 <!--
 **AlexaH88/AlexaH88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
