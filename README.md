@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://tenor.com/zFTG.gif" width="100"/>
+  <img src="https://tenor.com/en-GB/view/pusheen-computer-cat-notebook-gif-6080186" width="100"/>
 </div>
 
 
