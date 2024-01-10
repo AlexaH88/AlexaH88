@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://tenor.com/en-GB/view/pusheen-computer-cat-notebook-gif-6080186" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNrbGJuODRpa2ltdm5zdW95d2Y0Z3p5ZnduZjVycWpucTF0ZWZ1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
 </div>
 
 
