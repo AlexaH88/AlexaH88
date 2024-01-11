@@ -8,10 +8,10 @@
 </div>
 
 
-## 🙋‍♀️ About Me
+## 🙋 About Me
 
 - 🔭 Looking for my first developer job with a focus on font-end or full-stack
-- 💻 Full-stack software development diploma from Code Institute (Grade: Merit)
+- 💻 Full-Stack Software Development Diploma from Code Institute (Grade: Merit)
 - 🎓 Master of Arts Hons in French from University of St Andrews (Grade: 2:2)
 - 💼 10-year career in marketing and business development
 - 🌍 Grew up in Germany and Scotland, living in France
@@ -48,8 +48,50 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="30" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="30" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="30" height="30" />
 </div>
 
 
 ## 👩‍🎓 Portfolio Projects
+
+- 📝 During my Full-Stack Software Development Diploma, I created a portfolio of 5 projects - handling everything from the idea, the design, the code, to the testing. 
+
+- 🏅 I'm proud to say I received a Merit grade overall, with my very first project receiving a Distinction grade.
+
+### 1️⃣ HTML & CSS - Horizon GamePedia
+
+- 🕹 I created a website about the Horizon Zero Dawn and Horizon Forbidden West video games by Guerrilla Games, which I am a massive fan of.
+
+  | [Live Site](https://alexah88.github.io/horizon-gamepedia/)      | [Repo](https://github.com/AlexaH88/horizon-gamepedia)           |
+  |    :----:                                                       |    :----:                                                       | 
+
+### 2️⃣ JavaScript - PiaNotes
+
+- 🎹 Being a music lover, I created a playable virtual piano, including a minigame challenge based on Simon Says.
+
+  | [Live Site](https://alexah88.github.io/pianotes/)               | [Repo](https://github.com/AlexaH88/pianotes)                    |
+  |    :----:                                                       |    :----:                                                       | 
+
+### 3️⃣ Python - Harry Potter Adventure Game
+
+- 🧙‍♂️ Having always loved video games, I created a Harry Potter themed text-based adventure game for this project.
+
+  | [Live Site](https://harry-potter-adventure-game.herokuapp.com/) | [Repo](https://github.com/AlexaH88/harry-potter-adventure-game) |
+  |    :----:                                                       |    :----:                                                       | 
+
+### 4️⃣ Full-Stack (Django) - Anthemology
+
+- 🎙 Singing being a passion of mine, I created a song lyrics app for this project, including account registration and CRUD functionality on song entries.
+
+  | [Live Site](https://anthemology.herokuapp.com/)                 | [Repo](https://github.com/AlexaH88/anthemology)                 |
+  |    :----:                                                       |    :----:                                                       | 
+
+### 5️⃣ Advanced Front-End (React JS) - Gamer Guild
+
+- 👾 My video game passion came to the fore again to make a social media app for the gaming community, allowing players to share videos and create events.
+
+  | [Front-End Live Site](https://gamer-guild.herokuapp.com/)      | [Front-End Repo](https://github.com/AlexaH88/gamer-guild)          |
+  |    :----:                                                      |    :----:                                                          |
+  | [Back-End Live Site](https://gamer-guild-api.herokuapp.com/)   | [Back-End Repo](https://github.com/AlexaH88/gamer-guild-api)       |
+  
