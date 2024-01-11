@@ -55,7 +55,7 @@
 
 ## 👩‍🎓 Portfolio Projects
 
-- 📝 During my Full-Stack Software Development Diploma, I created a portfolio of 5 projects - handling everything from the idea, the design, the code, to the testing. 
+- 📝 During my Full-Stack Software Development Diploma, I created a portfolio of 5 projects - handling everything from the idea, the design, and the code, to the testing. 
 
 - 🏅 I'm proud to say I received a Merit grade overall, with my very first project receiving a Distinction grade.
 
