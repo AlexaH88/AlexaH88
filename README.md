@@ -50,6 +50,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="30" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Fcplusplus%2Fcplusplus-original.svg" title="C++" alt="C++" width="30" height="30" />
 </div>
 
 
