@@ -103,7 +103,8 @@
 
 ### 💜 Valentine's Day
 
-  | [Live Site](https://manni8436.github.io/HoliDates/)                 | [Repo](https://github.com/manni8436/HoliDates)             |    |    :----:                                                           |    :----:                                                  |
+  | [Live Site](https://manni8436.github.io/HoliDates/)               | [Repo](https://github.com/manni8436/HoliDates)               |
+  |    :----:                                                         |    :----:                                                    | 
 
 ### ⭐ Star War's Day
 
