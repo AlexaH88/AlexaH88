@@ -53,6 +53,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons%2Fcplusplus%2Fcplusplus-original.svg" title="C++" alt="C++" width="30" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original.svg" title="Materialze alt="Materialze" width="30" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="30" height="30" />
+  <img src="hhttps://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="30" height="30" />
 </div>
 
 
