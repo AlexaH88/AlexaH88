@@ -10,7 +10,6 @@
 
 ## 🙋 About Me
 
-- 🔭 Looking for my first developer job with a focus on font-end or full-stack
 - 💻 Full-Stack Software Development Diploma from Code Institute (Grade: Merit)
 - 🎓 Master of Arts Hons in French from University of St Andrews (Grade: 2:2)
 - 💼 10-year career in marketing and business development
@@ -97,7 +96,8 @@
 
   | [Front-End Live Site](https://gamer-guild.herokuapp.com/)      | [Front-End Repo](https://github.com/AlexaH88/gamer-guild)       |  
   |    :----:                                                      |    :----:                                                       |   
-  | [Back-End Live Site](https://gamer-guild-api.herokuapp.com/)   | [Back-End Repo](https://github.com/AlexaH88/gamer-guild-api)    |    |    :----:                                                      |    :----:                                                       |
+  | [Back-End Live Site](https://gamer-guild-api.herokuapp.com/)   | [Back-End Repo](https://github.com/AlexaH88/gamer-guild-api)    |
+  |    :----:                                                      |    :----:                                                       |
 
 
 ## 🏆 Hackathons
