@@ -80,7 +80,7 @@
 
 - 🧙‍♂️ Having always loved video games, I created a Harry Potter themed text-based adventure game for this project.
 
-  | [Live Site](https://harry-potter-adventure-game.herokuapp.com/) | [Repo](https://github.com/AlexaH88/harry-potter-adventure-game) |
+  | [Live Site](https://harry-potter-adventure-game.onrender.com/) | [Repo](https://github.com/AlexaH88/harry-potter-adventure-game) |
   |    :----:                                                       |    :----:                                                       | 
 
 ### 4️⃣ Full-Stack (Django) - Anthemology - Grade: Merit
