@@ -10,9 +10,9 @@
 
 ## 🙋‍♀️ About Me
 
+- 💼 Web Developer, with a 10-year career in marketing and business development
 - 💻 Full-Stack Software Development Diploma from Code Institute (Grade: Merit)
 - 🎓 Master of Arts Hons in French from University of St Andrews (Grade: 2:2)
-- 💼 10-year career in marketing and business development
 - 🌍 Grew up in Germany and Scotland, living in France
 - 🎧 Love gaming, music, and all things tech
 
