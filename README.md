@@ -87,7 +87,7 @@
 
 - 🎙 Singing being a passion of mine, I created a song lyrics app for this project, including account registration and CRUD functionality on song entries.
 
-  | [Live Site](https://anthemology.herokuapp.com/)                 | [Repo](https://github.com/AlexaH88/anthemology)                 |
+  | [Live Site](https://anthemology.onrender.com/)                 | [Repo](https://github.com/AlexaH88/anthemology)                 |
   |    :----:                                                       |    :----:                                                       | 
 
 ### 5️⃣ Advanced Front-End (React JS) - Gamer Guild - Grade: Pass
