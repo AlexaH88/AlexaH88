@@ -94,9 +94,9 @@
 
 - 👾 My video game passion came to the fore again to make a social media app for the gaming community, allowing players to share videos and create events.
 
-  | [Front-End Live Site](https://gamer-guild.herokuapp.com/)      | [Front-End Repo](https://github.com/AlexaH88/gamer-guild)       |  
+  | [Front-End Live Site](https://gamer-guild.onrender.com/)      | [Front-End Repo](https://github.com/AlexaH88/gamer-guild)       |  
   |    :----:                                                      |    :----:                                                       |   
-  | [Back-End Live Site](https://gamer-guild-api.herokuapp.com/)   | [Back-End Repo](https://github.com/AlexaH88/gamer-guild-api)    |
+  | [Back-End Live Site](https://gamer-guild-api.onrender.com/)   | [Back-End Repo](https://github.com/AlexaH88/gamer-guild-api)    |
 
 ## 🏆 Hackathons
 
