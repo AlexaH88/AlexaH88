@@ -41,13 +41,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="30" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30" height="30" />
+  <img src="https://github.com/devicons/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="30" height="30" />
 </div>
 
 ### 💡 Learning
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="30" height="30" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original.svg" title="Materialze alt="Materialze" width="30" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="30" height="30" />
 </div>
 
